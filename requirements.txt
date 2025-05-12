@@ -1,0 +1,14 @@
+base58==2.1.1
+bech32==1.2.0
+bip32utils==0.3.post4
+ecdsa==0.18.0
+Eel==0.16.0
+eth_hash==0.5.2
+hdwallet==2.2.1
+mnemonic==0.20
+opencv_python==4.8.0.74
+opencv_python_headless==4.11.0.86
+pytest==8.3.4
+pywin32==306
+qrcode==7.4.2
+shamir_mnemonic==0.3.0

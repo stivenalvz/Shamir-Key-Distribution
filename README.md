@@ -2,10 +2,6 @@
 
 #### Developed by: Stiven Alvarez
 #### GitHub: [stivenalvz](https://github.com/stivenalvz)
-#### City: Medellín, Colombia
-#### Recording Date: May 11, 2025
-
-#### Video Demo: [Watch the Demo](https://www.youtube.com/watch?v=H2vSpDp7vos)
 
 ## Description
 
